@@ -55,7 +55,7 @@ Since no dataset was provided, the script generates a synthetic dataset with the
 
 
 Full R script is available here- https://github.com/Gargi28-sketch/BioinformHer-R-Class-Project/blob/e76ed00d48b3150ad1c4bbf4fb5fe36a9f6b0c32/Project%20script.R
-A barplot of total expression per patient will 
+A barplot of total expression per patient available here- 
 ## Notes
 * All computations use **base R** functions.
 
