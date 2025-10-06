@@ -44,8 +44,6 @@ Since no dataset was provided, the script generates a synthetic dataset with the
 
 ## Output
 
-Running `analysis.R` will print to the console:
-
 * Dataset preview
 * Structure and summaries
 * Gene means and variances
