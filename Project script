@@ -142,7 +142,7 @@ cat("Mean total per group after removing lowest-total patient:\n")
 print(tapply(expr_removed$total, expr_removed$status, mean))
 cat("\n------------------------------------------------------------\n")
 
-# 20. Automatic 2-paragraph interpretation -------------------
+# 20. 2-paragraph interpretation -------------------
 cat("\nINTERPRETATION:\n\n")
 cat("In this pilot study of 10 patients, several genes appeared to show differential ",
     "expression between Responders and Non-Responders. The overall analysis suggested ",
