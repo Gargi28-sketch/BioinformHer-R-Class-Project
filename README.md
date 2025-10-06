@@ -69,6 +69,6 @@ A barplot of total expression per patient will also be generated.
 3. View console outputs and generated barplot.
 
 ---
-Author: Gargi : Pilot study gene expression analysis and summary for coursework submission.
+
 **Author:** Gargi
 **Purpose:** Pilot study gene expression analysis and summary for coursework submission.
