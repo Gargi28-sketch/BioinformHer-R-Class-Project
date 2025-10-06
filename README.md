@@ -57,16 +57,8 @@ Running `analysis.R` will print to the console:
 A barplot of total expression per patient will also be generated.
 
 ## Notes
-
 * All computations use **base R** functions.
-* The script is fully reproducible due to the fixed random seed.
-* The interpretation dynamically adapts to the generated dataset.
 
-## How to Run
-
-1. Open `analysis.R` in R or RStudio.
-2. Execute the script (Ctrl+Shift+Enter or Source).
-3. View console outputs and generated barplot.
 
 ---
 
