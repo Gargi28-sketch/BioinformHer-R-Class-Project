@@ -1,4 +1,3 @@
-# ------------------------------------------------------------
 # Pilot Study: 8 genes × 10 patients
 
 set.seed(123)  # for reproducibility
@@ -165,3 +164,4 @@ cat("When we examined per-patient totals, we found that a few patients had marke
     "be interpreted cautiously, and confirmation in a larger, independent dataset will ",
 
     "be necessary before drawing firm biological or clinical conclusions.\n")
+
