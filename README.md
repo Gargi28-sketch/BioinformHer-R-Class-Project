@@ -62,5 +62,5 @@ A barplot of total expression per patient available here-https://github.com/Garg
 * All computations use **base R** functions.
 ---
 
-**Author:** Gargi
+**Author:** Gargi Durbude
 **Purpose:** Pilot study gene expression analysis and summary for coursework submission.
