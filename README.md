@@ -1,4 +1,5 @@
-# Pilot Study Gene Expression Analysis
+# BioinformHer-R-Class-Project
+
 # README: Pilot Study Gene Expression Analysis
 
 ## Project Overview
